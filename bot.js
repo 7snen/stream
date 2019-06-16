@@ -5,7 +5,7 @@ client.on('ready', () => {
    console.log(`----------------`);
       console.log(`Cyhper Bot Script By : DREAM`);
         console.log(`----------------`);
-      console.log(`ON ${client.guilds.size} Servers '     Script By : DREAM ' `);
+      console.log(`ON ${client.guilds.size} Servers '     Script By : 70oSsaM_ ' `);
     console.log(`----------------`);
   console.log(`Logged in as ${client.user.tag}!`);
 client.user.setGame(`You Cant Lie To Me ._.! `,"http://twitch.tv/Dream")
